@@ -27,14 +27,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- Your Name
+- Kapil Raj Shrestha
 
 Feel free to contribute or report issues.
 
 ## Acknowledgments
 
 - The code for password strength checking is based on a simple example.
-- Thanks to [Your Inspiration Source](https://www.example.com) for inspiration.
 
 git init
 git add .
