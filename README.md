@@ -35,10 +35,10 @@ Feel free to contribute or report issues.
 
 - The code for password strength checking is based on a simple example.
 
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/PasswordStrengthEvaluation.git
-git push -u origin main
+/n git init
+/n git add .
+/n git commit -m "Initial commit"
+/ngit branch -M main
+/n git remote add origin https://github.com/Sayapatri/password_strength_checker.git
+/n git push -u origin main
 
